@@ -1,0 +1,98 @@
+[
+  {
+    "id": "lesson_001",
+    "classId": "class_001",
+    "date": "2024-12-16",
+    "title": "Introduction to Quadratic Functions",
+    "objectives": [
+      "Identify quadratic functions from their equations",
+      "Graph basic quadratic functions",
+      "Understand the vertex form of quadratic equations"
+    ],
+    "activities": [
+      "Warm-up: Review linear functions",
+      "Interactive demonstration with graphing calculator",
+      "Group practice with graphing quadratics",
+      "Exit ticket: Identify vertex of given functions"
+    ],
+    "materials": [
+      "Graphing calculators",
+      "Graph paper",
+      "Function worksheets",
+      "Interactive whiteboard"
+    ],
+    "homework": "Complete practice problems 1-15 on quadratic graphing worksheet"
+  },
+  {
+    "id": "lesson_002",
+    "classId": "class_002",
+    "date": "2024-12-17",
+    "title": "Character Development in Literature",
+    "objectives": [
+      "Analyze how characters change throughout a story",
+      "Identify literary devices used for character development",
+      "Connect character development to theme"
+    ],
+    "activities": [
+      "Discussion: What makes a character memorable?",
+      "Character mapping exercise",
+      "Small group analysis of character excerpts",
+      "Class presentation of findings"
+    ],
+    "materials": [
+      "Novel copies",
+      "Character development worksheets",
+      "Sticky notes for annotations",
+      "Presentation materials"
+    ],
+    "homework": "Read chapters 8-10 and complete character development chart"
+  },
+  {
+    "id": "lesson_003",
+    "classId": "class_003",
+    "date": "2024-12-18",
+    "title": "Causes of World War I",
+    "objectives": [
+      "Identify the main causes of World War I",
+      "Analyze the role of alliances in the conflict",
+      "Evaluate the significance of the assassination of Archduke Franz Ferdinand"
+    ],
+    "activities": [
+      "Timeline creation activity",
+      "Map analysis of European alliances",
+      "Primary source document analysis",
+      "Debate: Could WWI have been prevented?"
+    ],
+    "materials": [
+      "Historical maps",
+      "Primary source documents",
+      "Timeline templates",
+      "Debate preparation sheets"
+    ],
+    "homework": "Research paper outline on chosen WWI topic due next class"
+  },
+  {
+    "id": "lesson_004",
+    "classId": "class_004",
+    "date": "2024-12-19",
+    "title": "Cell Structure and Function",
+    "objectives": [
+      "Compare plant and animal cell structures",
+      "Identify organelles and their functions",
+      "Understand how cell structure relates to function"
+    ],
+    "activities": [
+      "Microscope lab: Observing plant and animal cells",
+      "Cell organelle matching game",
+      "Create cell diagrams with labels",
+      "Lab report writing workshop"
+    ],
+    "materials": [
+      "Microscopes",
+      "Prepared slides",
+      "Lab notebooks",
+      "Cell diagram templates"
+    ],
+    "homework": "Complete lab report on cell observations"
+  }
+]

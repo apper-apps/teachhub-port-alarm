@@ -1,0 +1,52 @@
+[
+  {
+    "id": "assignment_001",
+    "classId": "class_001",
+    "title": "Quadratic Equations Practice",
+    "description": "Complete problems 1-25 on page 156. Show all work and explain your reasoning for word problems.",
+    "dueDate": "2024-12-20",
+    "points": 100,
+    "category": "Homework",
+    "submissions": []
+  },
+  {
+    "id": "assignment_002",
+    "classId": "class_001",
+    "title": "Chapter 8 Test - Polynomials",
+    "description": "Comprehensive test covering polynomial operations, factoring, and graphing.",
+    "dueDate": "2024-12-22",
+    "points": 150,
+    "category": "Test",
+    "submissions": []
+  },
+  {
+    "id": "assignment_003",
+    "classId": "class_002",
+    "title": "Character Analysis Essay",
+    "description": "Write a 3-page essay analyzing the main character's development in the assigned novel.",
+    "dueDate": "2024-12-21",
+    "points": 100,
+    "category": "Essay",
+    "submissions": []
+  },
+  {
+    "id": "assignment_004",
+    "classId": "class_003",
+    "title": "World War I Timeline Project",
+    "description": "Create a detailed timeline of major events leading up to and during World War I.",
+    "dueDate": "2024-12-23",
+    "points": 125,
+    "category": "Project",
+    "submissions": []
+  },
+  {
+    "id": "assignment_005",
+    "classId": "class_004",
+    "title": "Cell Structure Lab Report",
+    "description": "Complete the lab report based on our microscopic observation of plant and animal cells.",
+    "dueDate": "2024-12-19",
+    "points": 100,
+    "category": "Lab Report",
+    "submissions": []
+  }
+]

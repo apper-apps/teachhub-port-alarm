@@ -1,0 +1,90 @@
+[
+  {
+    "id": "attendance_001",
+    "studentId": "student_001",
+    "classId": "class_001",
+    "date": "2024-12-16",
+    "status": "present",
+    "note": ""
+  },
+  {
+    "id": "attendance_002",
+    "studentId": "student_002",
+    "classId": "class_001",
+    "date": "2024-12-16",
+    "status": "present",
+    "note": ""
+  },
+  {
+    "id": "attendance_003",
+    "studentId": "student_003",
+    "classId": "class_001",
+    "date": "2024-12-16",
+    "status": "absent",
+    "note": "Sick day"
+  },
+  {
+    "id": "attendance_004",
+    "studentId": "student_004",
+    "classId": "class_001",
+    "date": "2024-12-16",
+    "status": "present",
+    "note": ""
+  },
+  {
+    "id": "attendance_005",
+    "studentId": "student_001",
+    "classId": "class_002",
+    "date": "2024-12-16",
+    "status": "present",
+    "note": ""
+  },
+  {
+    "id": "attendance_006",
+    "studentId": "student_002",
+    "classId": "class_002",
+    "date": "2024-12-16",
+    "status": "late",
+    "note": "Traffic delay"
+  },
+  {
+    "id": "attendance_007",
+    "studentId": "student_003",
+    "classId": "class_002",
+    "date": "2024-12-16",
+    "status": "present",
+    "note": ""
+  },
+  {
+    "id": "attendance_008",
+    "studentId": "student_005",
+    "classId": "class_002",
+    "date": "2024-12-16",
+    "status": "present",
+    "note": ""
+  },
+  {
+    "id": "attendance_009",
+    "studentId": "student_001",
+    "classId": "class_003",
+    "date": "2024-12-15",
+    "status": "present",
+    "note": ""
+  },
+  {
+    "id": "attendance_010",
+    "studentId": "student_004",
+    "classId": "class_003",
+    "date": "2024-12-15",
+    "status": "present",
+    "note": ""
+  },
+  {
+    "id": "attendance_011",
+    "studentId": "student_005",
+    "classId": "class_003",
+    "date": "2024-12-15",
+    "status": "present",
+    "note": ""
+  }
+]

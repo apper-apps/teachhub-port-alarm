@@ -1,0 +1,50 @@
+[
+  {
+    "id": "class_001",
+    "name": "Advanced Mathematics",
+    "subject": "Mathematics",
+    "period": "1st",
+    "room": "101A",
+    "studentIds": ["student_001", "student_002", "student_003", "student_004"],
+    "schedule": {
+      "time": "08:00",
+      "days": [1, 2, 3, 4, 5]
+    }
+  },
+  {
+    "id": "class_002",
+    "name": "English Literature",
+    "subject": "English",
+    "period": "3rd",
+    "room": "205B",
+    "studentIds": ["student_002", "student_003", "student_005"],
+    "schedule": {
+      "time": "10:30",
+      "days": [1, 2, 3, 4, 5]
+    }
+  },
+  {
+    "id": "class_003",
+    "name": "World History",
+    "subject": "History",
+    "period": "5th",
+    "room": "312C",
+    "studentIds": ["student_001", "student_004", "student_005"],
+    "schedule": {
+      "time": "13:15",
+      "days": [1, 2, 3, 4, 5]
+    }
+  },
+  {
+    "id": "class_004",
+    "name": "Biology Honors",
+    "subject": "Science",
+    "period": "2nd",
+    "room": "Lab-1",
+    "studentIds": ["student_001", "student_003", "student_005"],
+    "schedule": {
+      "time": "09:15",
+      "days": [1, 2, 3, 4, 5]
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "student_001",
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "email": "emma.johnson@school.edu",
+    "parentContact": "(555) 123-4567",
+    "photoUrl": "https://ui-avatars.com/api/?name=Emma+Johnson&background=2E7D32&color=fff",
+    "notes": "Excellent student with strong analytical skills. Participates actively in class discussions."
+  },
+  {
+    "id": "student_002",
+    "firstName": "Michael",
+    "lastName": "Chen",
+    "email": "michael.chen@school.edu",
+    "parentContact": "parent.chen@email.com",
+    "photoUrl": "https://ui-avatars.com/api/?name=Michael+Chen&background=2E7D32&color=fff",
+    "notes": "Creative thinker who excels in group projects. Sometimes needs encouragement to speak up."
+  },
+  {
+    "id": "student_003",
+    "firstName": "Sarah",
+    "lastName": "Williams",
+    "email": "sarah.williams@school.edu",
+    "parentContact": "(555) 987-6543",
+    "photoUrl": "https://ui-avatars.com/api/?name=Sarah+Williams&background=2E7D32&color=fff",
+    "notes": "Detail-oriented student with excellent organizational skills. Natural leader in team activities."
+  },
+  {
+    "id": "student_004",
+    "firstName": "David",
+    "lastName": "Martinez",
+    "email": "david.martinez@school.edu",
+    "parentContact": "(555) 456-7890",
+    "photoUrl": "https://ui-avatars.com/api/?name=David+Martinez&background=2E7D32&color=fff",
+    "notes": "Enthusiastic learner with a passion for science. Works well independently and in groups."
+  },
+  {
+    "id": "student_005",
+    "firstName": "Ashley",
+    "lastName": "Brown",
+    "email": "ashley.brown@school.edu",
+    "parentContact": "ashley.parent@email.com",
+    "photoUrl": "https://ui-avatars.com/api/?name=Ashley+Brown&background=2E7D32&color=fff",
+    "notes": "Thoughtful student who brings unique perspectives to discussions. Excellent written communication skills."
+  }
+]
